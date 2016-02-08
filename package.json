@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-hello-world",
+  "version": "1.0.0",
+  "description": "Bootstrap Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Diego Alves",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "jquery": "^2.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-coffee": "^2.3.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.2.0"
+  }
+}
